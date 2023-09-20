@@ -1,7 +1,7 @@
 # MovieMate
 <p align="center">
-Movie-land is built with react and hosted on heroku. <br>
-Movie-land is OMBD API based website that is used to search for movies/web series/Anime, and display the results.
+MovieMate is built with react and hosted on heroku. <br>
+MovieMate is OMBD API based website that is used to search for movies/web series/Anime, and display the results.
 </p>
 
 ![MovieMate](https://github.com/rajat4885/MovieMate/assets/100342306/af537bc3-a805-4ad3-8107-b194f80f1039.png)
