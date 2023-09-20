@@ -18,7 +18,6 @@ Movie-land is OMBD API based website that is used to search for movies/web serie
 
 #### Technologies used:
 
-In this project we have used the following technologies:
 1.HTML5<br>
 2.CSS<br>
 3.JAVASCRIPT<br>
