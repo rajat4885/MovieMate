@@ -1,6 +1,6 @@
 # MovieMate
 <p align="center">
-MovieMate is built with react and hosted on heroku. <br>
+MovieMate is built with react and hosted on Netlify. <br>
 MovieMate is OMBD API based website that is used to search for movies/web series/Anime, and display the results.
 </p>
 
