@@ -3,7 +3,7 @@
 Movie-land is built with react and hosted on heroku. <br>
 Movie-land is OMBD API based website that is used to search for movies/web series/Anime, and display the results.
 </p>
-![MovieMate](https://github.com/rajat4885/MovieMate/blob/master/src/Screenshot%20(364).png)
+![Screenshot (364)](https://github.com/rajat4885/MovieMate/assets/100342306/0df00b6c-7a28-46c0-84ed-a6da3f6fe5ea)
 <p align="center">
     👨‍💻 Website link:
     <a href="https://mymoviemate.netlify.app/"> Movie-Mate </a>
